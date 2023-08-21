@@ -1,0 +1,2 @@
+# ImageAltify
+Accessible Content Enhancer
